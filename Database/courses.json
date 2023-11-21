@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "RS101",
+      "name": "Rocket Propulsion",
+      "number": "RS4550",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-15",
+      "semester": "202310_1 Fall Semester Full Term"
+    },
+    {
+      "_id": "RS102",
+      "name": "Aerodynamics",
+      "number": "RS4560",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-15",
+      "semester": "202410_2 Fall Semester Full Term"
+    },
+    {
+      "_id": "RS103",
+      "name": "Spacecraft Design",
+      "number": "RS4570",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-15",
+      "semester": "202410_3 Fall Semester Full Term"
+    },
+    {
+      "_id": "RS101",
+      "name": "Rocket Propulsion",
+      "number": "RS4550",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-15",
+      "semester": "202310_1 Fall Semester Full Term"
+    },
+    {
+      "_id": "RS102",
+      "name": "Aerodynamics",
+      "number": "RS4560",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-15",
+      "semester": "202410_2 Fall Semester Full Term"
+    },
+    {
+      "_id": "RS103",
+      "name": "Spacecraft Design",
+      "number": "RS4570",
+      "startDate": "2023-01-10",
+      "endDate": "2023-05-15",
+      "semester": "202410_3 Fall Semester Full Term"
+    }
+  ]
