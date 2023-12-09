@@ -13,3 +13,4 @@ const userSchema = new mongoose.Schema({
   },
   { collection: "users" });
 export default userSchema;
+
